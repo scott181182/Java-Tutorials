@@ -1,5 +1,12 @@
 package MMC;
 
+/**
+ * Main class for Episode 2 - Primitive Data Types and Strings:
+ * 
+ * 	http://youtu.be/2HUqp92HBCA
+ * 
+ * @author Scott Fasone
+ **/
 public class Main 
 {
 	static byte byte1 = 1_2_7;	
