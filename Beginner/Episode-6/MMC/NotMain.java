@@ -1,5 +1,11 @@
 package MMC;
 
+/**
+ * A class that was subject to some change throughout the episode, but ended up extending Rect, 
+ * to show more features of extension, inheretence, and super classes
+ * 
+ * @author Scott Fasone
+ **/
 public class NotMain extends Rect implements Inter 
 {
 	private String string;
