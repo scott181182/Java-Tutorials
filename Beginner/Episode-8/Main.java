@@ -1,5 +1,12 @@
 package MMC;
 
+/**
+ * The main class for Episode 8 - Errors and Exceptions:
+ * 
+ * 	http://youtu.be/kEUqtHyzamE
+ * 
+ * @author Scott Fasone
+ */
 public class Main 
 {
 	public static int[] intArray;
