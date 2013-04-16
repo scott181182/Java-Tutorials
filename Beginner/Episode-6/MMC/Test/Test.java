@@ -1,10 +1,14 @@
 package MMC.Test;
 
 import java.awt.Rectangle;
-
 import MMC.NotMain;
 import MMC.Rect;
 
+/**
+ * Just a boring class to exemplify importing, packages, and the privacy between packages
+ * 
+ * @author Scott Fasone
+ **/
 public class Test 
 {
 	
