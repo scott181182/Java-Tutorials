@@ -5,6 +5,14 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import javax.swing.JFrame;
 
+/**
+ * Main class for Episode 6 - Concepts of Object Oriented Programming:
+ * 
+ * 	Part I - http://youtu.be/OWGcQRd62UQ
+ * 	Part II - http://youtu.be/WqdeT-XgFuQ
+ * 
+ * @author Scott Fasone
+ **/
 public class Main implements KeyListener
 {
 	public static final int SUPER_WIDTH = 150;
