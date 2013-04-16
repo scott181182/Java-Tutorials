@@ -1,5 +1,12 @@
 package MMC;
 
+/**
+ * Main class for Episode 3 - Arrays and Arithmetic:
+ * 
+ * 	http://youtu.be/YlRN9yayemc
+ * 
+ * @author Scott Fasone
+ **/
 public class Main 
 {
 	static int int1 = 256;
@@ -22,6 +29,7 @@ public class Main
 		int1++;
 		
 		boolean bool1 = false;
+		
 		boolean bool2 = !bool1;
 		boolean bool3 = x > y;
 		
