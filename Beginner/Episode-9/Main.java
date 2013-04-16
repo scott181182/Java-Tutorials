@@ -1,5 +1,12 @@
 package MMC;
 
+/**
+ * The main class for Episode 9 - Type Casting and Primitive Data Objects:
+ * 
+ * 	http://youtu.be/tqY9nLytxGs
+ * 
+ * @author Scott Fasone
+ */
 public class Main 
 {
 	public static int int1 = 0;
