@@ -1,5 +1,10 @@
 package MMC;
 
+/**
+ * A boring class to exemplify the differences between Inner Classes and Static Nested Classes
+ * 
+ * @author Scott Fasone
+ **/
 public class NotNested 
 {
 	public Main main = new Main();
