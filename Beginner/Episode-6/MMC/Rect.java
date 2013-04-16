@@ -1,9 +1,14 @@
 package MMC;
 
 import java.awt.*;
-
 import javax.swing.JFrame;
 
+/**
+ * A class that originally extended java.awt.Rectangle, 
+ * but severed that tie to demonstrate creation and extention of our own classes
+ * 
+ * @author Scott Fasone
+ **/
 public class Rect
 {
 	protected int x, y, width, height;
