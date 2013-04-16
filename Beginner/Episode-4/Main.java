@@ -1,5 +1,12 @@
 package MMC;
 
+/**
+ * Main class for Episode 4 - Inequalities and Conditionals:
+ * 
+ * 	http://youtu.be/JWR-V0-m67Y
+ * 
+ * @author Scott Fasone
+ **/
 public class Main 
 {
 	static int int1 = 5;
