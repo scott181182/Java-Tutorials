@@ -1,9 +1,11 @@
 package MMC;
 
 /**
- * The main class for Episode 7
+ * The main class for Episode 7 - Nested Classes, Enums, and Commenting:
  * 
- * @author scottfasone
+ * 	http://youtu.be/7nAbMiTo960
+ * 
+ * @author Scott Fasone
  */
 public class Main 
 {
