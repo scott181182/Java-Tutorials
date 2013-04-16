@@ -1,5 +1,10 @@
 package MMC;
 
+/**
+ * A test Enum, or enumeration
+ * 
+ * @author Scott Fasone
+ **/
 public enum TestEnum 
 {
 	ENTRY_ONE("", 0),
