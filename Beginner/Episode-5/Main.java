@@ -3,7 +3,7 @@ package MMC;
 /**
  * Main class for Episode 5 - Ternary Operators and Loops:
  * 
- * 	http://youtu.be/JWR-V0-m67Y
+ * 	http://youtu.be/1BX9ns2zjmE
  * 
  * @author Scott Fasone
  **/
